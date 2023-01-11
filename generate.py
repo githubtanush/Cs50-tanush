@@ -14,6 +14,6 @@ print(number)'''
 
 import random
 cards = ["jack","queen","king"]
-random.shuffle(cards)
+random.shuffle(cards)# means shuffle randomly
 for card in cards:
     print(card)
