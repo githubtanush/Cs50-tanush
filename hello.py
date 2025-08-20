@@ -3,6 +3,11 @@ name = input("What's your name? ")# space before the double quote to become more
 name = name.strip()#this is used when we written inside with space in terminal but it should not include the space
 name = name.capitalize()# capitalize is used for capital the just only first letter of word
 name = name.title()#title is used to capitalize the all words first letter
+
+#Split user's name into first name and last name
+first, last = name.split(" ")
+print(f"Hello, {first}")
+
 print(f"Hello, {name}")
 #Say hello to user
 print("Hello, ", end="???")#end is used that at the end of the line which will create

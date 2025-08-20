@@ -7,4 +7,5 @@ cd = change directory
 clear = clear terminal window
 rmdir =  remove a directory
 code hello.py-to open any file
+filename.py  = to run a file
 '''

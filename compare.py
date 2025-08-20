@@ -3,6 +3,7 @@ y=int(input("What's y?"))
 # use of if elif else
 '''if x<y:# col is necessary at the end of line of if
     print("x is less than y")# indentation is also very important
+    #identation tells the user that this line is under the function
 elif x>y:
     print("x is greater than y")
 #elif x == y:
