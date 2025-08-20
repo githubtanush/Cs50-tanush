@@ -38,7 +38,11 @@ elif score>=50:
     print("Grade: E")
 else:
     print("Grade: F")'''
-# when we use if instead of elif else then logically it does not become it mutually exclusive and when we write 95 it would print all the grade like that so turn to mutually exclusive we use elif function because in if it treats only like 1 question not another condition or question
+# when we use if instead of elif else then logically it does not 
+# become it mutually exclusive and when we write 95 it would print 
+# all the grade like that so turn to mutually exclusive we use elif 
+# function because in if it treats only like 1 question not another 
+# condition or question
 
 if score>=90:
     print("Grade: A")
