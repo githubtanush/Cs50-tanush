@@ -7,7 +7,7 @@ if len(sys.argv) == 2:
 #JSON=java script object notation
 '''
 import sys
-from sayings import hello
+from python.Lecture1python.sayings import hello
 
 if len(sys.argv)==2:
     hello(sys.argv[1])
