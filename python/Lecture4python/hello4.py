@@ -2,7 +2,8 @@
 x=int(input("What's x? "))
 print(f'x is {x}')'''
 #try-keyword in python whether or not something exceptional
-#except-exceptional cases error in valueerror v in value and e in error must be capital
+#except-exceptional cases error in valueerror v in value and 
+# e in error must be capital
 
 '''try:
         x=int(input("What's x? "))
