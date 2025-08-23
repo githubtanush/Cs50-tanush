@@ -21,6 +21,7 @@ coin = choice(["heads","tails"])'''
 
 '''import random
 number = random.randint(1,10)#randint means randomly any integer is written
+#randint is inclusive either the start or the end this is inclusive from both sides
 print(number)'''
 
 import random

@@ -7,6 +7,7 @@ try:
 except IndexError:
     print("Too few arguments")'''
 
+#sys.argv[1] storing my element which i written after the filename
 
 '''import sys
 try:
@@ -22,6 +23,10 @@ elif len(sys.argv) > 2:
     print("Too many arguments")
 #print name tags
     print("hello, my name is", sys.argv[1])'''
+
+'''if we write like this Tanush then next arora will be the next argument
+on the other if i written like this "Tanush Arora" it will be treated as 
+single word'''
 
 import sys
 
